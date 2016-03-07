@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* 主样式文件 */
+
+body {background: no-repeat center url("image/bg.jpg") #151a20;  font-family:Verdana,"微软雅黑"; margin:0px; padding:0px;}
+
+.Lordly_Header_Opacity { width:100%;height:90px; background-color:#000; 
+ opacity:0.5; filter: progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+ position:absolute; z-index:-999;}
+
+.Lordly_MainBox {}
+.Lordly_Header { margin-bottom:5px;}
+.Lordly_Body {}
+.Lordly_Footer { color:#FFF; line-height:30px; margin:0px auto 0px auto;}
+.Lordly_Footer_Line { border-top:1px solid #323232;}
+.Lordly_Nav { display:none; width:100%; position:absolute; top:100px; /*background:url("image/nav_bg.png") repeat-x;*/ }
+.Lordly_Nav div { width:950px; margin-left:auto; margin-right:auto; height:22px; line-height:22px; color:#FFF; font-size:12px; }
+.Lordly_Nav a {color:#FFF; text-decoration:none;}
+
+.Lordly_Header_Logo { background-color:#666; height:100px; background:url("image/logo.png") no-repeat -1px 20px; cursor:pointer;}
+.Lordly_Header_Menu { padding-top:15px;}
+.Lordly_Header_Menu div { margin-left:190px;}
+.Lordly_Header_Menu_Panel { height:55px; background-color:#000000; 
+ opacity:0.4;filter: progid:DXImageTransform.Microsoft.Alpha(opacity=40); }
+.Lordly_Header_Menu_Content { margin-top:-55px; position:absolute; z-index:999;} 
+.Lordly_Header_Menu a { display:block; width:100px; height:55px; line-height:55px; color:#FFF; float:left; text-align:center; text-decoration:none; font-weight:normal; }
+.Lordly_Header_Menu a:hover, .Lordly_Header_Menu_Selected { font-size:120%; background-color:#000000; }
+.Lordly_Header_Tool { text-align:right; padding-top:60px; }
+.Lordly_Header_Tool a { color:#FFF;}
+
+
+.Lordly_Body_Title { color:#FFF; font-size:24px; font-weight:bold; margin-bottom:8px; padding-left:20px;}
+.Lordly_Body_Ad { overflow:hidden;}
+.Lordly_Body_AdMenu { background-color:#666; margin-top:10px;}
+.Lordly_Body_AdArea { background-color:#093;}
+
+.Lordly_Footer a { color:#FFF;}
+.Lordly_Footer_Left {}
+.Lordly_Footer_Right { text-align:right;}
+
+.Lordly_Company { background-color:#FFF; width:100%; padding:0; margin:0;}
+.Lordly_Company_Leftmenu { width:150px; background:url("image/company/menu_bg.png") bottom no-repeat #808080; border-right:1px solid #666; padding-bottom:400px;}
+.Lordly_Company_Leftmenu ul { list-style:none; background-color:#999;}
+.Lordly_Company_Leftmenu li { background-color:#efe9dd; padding:0; margin:0; line-height:30px; border-bottom:1px solid #666;}
+.Lordly_Company_Leftmenu a { display:block;  padding-left:10px; color:#4e3f20; font-size:14px; font-weight:bold; text-decoration:none; }
+.Lordly_Company_Contentbox { padding:50px; font-size:14px; line-height:28px;}
+.Lordly_Company_Contentbox em { color:#036;}
+.Lordly_Company_Contentbox img { border:1px solid #DDD; padding:6px;}
+.Lordly_Company_Contentbox a img:hover { background-color:#EEE;}
+.Lordly_Company_Contentbox_back-button { background-color:#000; opacity:0.5; color:#FFFFFF; position:fixed; margin:-50px 0px 0px -50px; padding:10px; cursor:pointer;}
+
+
+.Lordly_newslist_box { background-color:#FFF;}
+.Lordly_newslist_box_menu { width:150px; float:left; background-color:#f8f8f8;}
+.Lordly_newslist_box_menu_title { background-color:#333333; color:#FFF; line-height:30px; padding-left:20px; font-weight:bold;}
+.Lordly_newslist_box_menu ul { margin:0px; padding:0px;}
+.Lordly_newslist_box_menu ul li{ list-style-type:none; margin:0px; padding:0px;}
+.Lordly_newslist_box_menu ul li a { display:block; text-decoration:none; line-height:30px; font-weight:bold; padding-left:15px; border-bottom:1px dashed #666;}
+.Lordly_newslist_box_menu ul li a:link { color:#000000; background-color:#f0f0f0;}
+.Lordly_newslist_box_menu ul li a:visited { color:#000000; background-color:#f0f0f0;}
+.Lordly_newslist_box_menu ul li a:active { color:#000000; background-color:#f0f0f0;}
+.Lordly_newslist_box_menu ul li a:hover { color:#FFFFFF; background-color:#666;}
+.Lordly_newslist_box_content { padding:20px 40px 40px 190px;}
+.Lordly_newslist_box_content_cat-des { border:1px solid #333333; padding:10px 20px 10px 10px; border:1px dashed #ccc;}
+.Lordly_newslist_box_content_list { margin-top:30px; list-style-type:none;}
+.Lordly_newslist_box_content_list_item { margin:0px; padding:15px 10px 15px 10px; border-bottom:1px dashed #CCCCCC;}
+.Lordly_newslist_box_content_list_item_header { padding-bottom:10px;}
+.Lordly_newslist_box_content_list_item_header h6 { margin-bottom:0px;}
+.Lordly_newslist_box_content_list_item_header a { text-decoration:none;}
+.Lordly_newslist_box_content_list_item_header a:link { color:#000;}
+.Lordly_newslist_box_content_list_item_header a:active { color:#000;}
+.Lordly_newslist_box_content_list_item_header a:visited { color:#000;}
+.Lordly_newslist_box_content_list_item_header a:hover { color:#F30;}
+.Lordly_newslist_box_content_list_item_header span { color:#666;}
+.Lordly_newslist_box_content_list_item_summary { color:#999;}
+.Lordly_Brands_ArticleBox {background-color:#FFF; padding:30px; font-size:14px; line-height:28px; overflow:hidden;}
+.Lordly_Brands_ArticleImg { float:left; padding:5px; background-color:#FFF; border:1px solid #DDD; margin:0 20px 20px 0;}
+
+.Lordly_Brands_Menu { float:right; margin-left:20px; background:#000; color:#FFF;}
+.Lordly_Brands_Menu ul { list-style:none;}
+.Lordly_Brands_Menu ul li { margin:0 10px;}
+.Lordly_Brands_Menu ul a { display:block; background-color:#333; color:#FFF; text-decoration:none; padding:0 10px; border-bottom:1px #666 solid;}
+
+
+.Lordly_info_mainbox { background-color:#FFFFFF; padding:15px;}
+
+
+nav#nav-below { background:#CCC; color:#FFF; padding:10px; overflow:hidden;}
+nav#nav-below h3 { color:#666; background:#FFF; font-size:18px; float:left; margin:0px; padding:0px 5px 0px 5px;}
+nav#nav-below .nav-previous,.nav-next { float:left; line-height:30px; padding-left:30px;}
+nav#nav-below a { color:#000;}
+
+.Lordly_outsite_link { color:#FFF; background-color:#666;}
+
+
+
+
+
+.ServiceInfo { background-color:#FFFFFF; color:#000000; margin-top:25px;}
+.ServiceInfo_title { background:#000; color:#FFFFFF; padding:10px 0 10px 30px; font-size:16px;}
+.ServiceInfo_items { overflow:hidden; padding:15px;}
+.ServiceInfo_item { float:left; width:276px; padding:0px 15px 0px 15px; color:#000;}
+.ServiceInfo_item_name { font-size:14px; padding-bottom:10px;}
+.ServiceInfo_item_image img { width:95%; height:95%; border:1px solid #EDEDED; padding:8px; background:#F7F7F7;}
+.ServiceInfo_item_text { line-height:25px; font-size:12px; padding-top:10px;}

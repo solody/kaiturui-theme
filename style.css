@@ -1,0 +1,14 @@
+@charset "utf-8";
+/*
+Theme Name: kaiturui
+Theme URI: http://www.kaiturui.com
+Author: sinam yeung
+Author URI: http://www.kaiturui.com
+Description: kaiturui 公司企业网站主题，它继承于twentyeleven主题.
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Template: twentyeleven
+Tags: dark, light, white, black, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+*/
+@import url("../twentyeleven/style.css");
