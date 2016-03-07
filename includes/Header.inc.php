@@ -11,8 +11,8 @@ function Lordly_Menu_Selected_CSS( $index ){
 
 <div class="container_24 Lordly_MainBox">
     <div class="grid_24 Lordly_Header">
-        <div class="grid_4 alpha Lordly_Header_Logo"></div>
-        <div class="grid_20 omega Lordly_Header_Menu">
+        <div class="grid_6 alpha Lordly_Header_Logo"></div>
+        <div class="grid_18 omega Lordly_Header_Menu">
             <div class="Lordly_Header_Menu_Panel"></div>
             <div class="Lordly_Header_Menu_Content">
             <a href="/"<?php Lordly_Menu_Selected_CSS(1); ?>>首页</a>

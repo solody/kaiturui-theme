@@ -1,13 +1,13 @@
 <?php
 //公司资质
 
-$PAGE_TITLE = '公司资质 - 关于凯途锐';
+$PAGE_TITLE = '公司资质 - 关于彩怒莉';
 
-$PAGE_SEO = '<meta name="keywords" content="公司资质,公司简介,凯途锐公司">
-<meta name="description" content="凯途锐公司目前的经营领域主要有香水和其他化妆品。">
+$PAGE_SEO = '<meta name="keywords" content="公司资质,公司简介,彩怒莉公司">
+<meta name="description" content="彩怒莉公司目前的经营领域主要有香水和其他化妆品。">
 ';
 
-$PAGE_NAV = '&nbsp;&nbsp;<a href="'.ldy_page_link_by_slug_r('company').'">了解凯途锐</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;公司资质&nbsp;&nbsp;&gt;';
+$PAGE_NAV = '&nbsp;&nbsp;<a href="'.ldy_page_link_by_slug_r('company').'">了解彩怒莉</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;公司资质&nbsp;&nbsp;&gt;';
 
 $Lordly_Menu_Selected_Index = 2;
 include('includes/HTMLHeader.inc.php');

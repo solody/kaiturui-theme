@@ -1,8 +1,8 @@
 <?php
 //公司网站首页
 
-$PAGE_SEO = '<meta name="keywords" content="深圳凯途锐,宝洁香水,进口香水,香水批发,香水代理,化妆品">
-<meta name="description" content="深圳市凯途锐贸易有限公司于2002年4月29号正式成立。在过去10年中，深圳凯途锐不断发展壮大，先后与中国宝洁及众多世界著名香水品牌建立合作关系，拥有稳定庞大的终端营销网络，现已成为高端品牌化妆品在中国内地首要的传播者之一。">
+$PAGE_SEO = '<meta name="keywords" content="广州彩怒莉,宝洁香水,进口香水,香水批发,香水代理,化妆品">
+<meta name="description" content="广州彩怒莉化妆品有限公司于2002年4月29号正式成立。在过去10年中，广州彩怒莉不断发展壮大，先后与中国宝洁及众多世界著名香水品牌建立合作关系，拥有稳定庞大的终端营销网络，现已成为高端品牌化妆品在中国内地首要的传播者之一。">
 ';
 
 $PAGE_CSS = '<!--link rel="stylesheet" type="text/css" href="'.LDY_ITR.'skin/slider/engine1/style.css"-->
@@ -39,22 +39,22 @@ include(LDY_PTR.'includes/Header.inc.php');
             <div style=" width:948px; height:418px; background:#000; border:1px solid #272727; opacity:0.4;filter: progid:DXImageTransform.Microsoft.Alpha(opacity=40); position:absolute; z-index:-99;"></div>
             <div id="bf" style=" margin:10px auto auto 10px;"></div>
             <div class="ServiceInfo">
-                <div class="ServiceInfo_title">凯途锐公司的专业团队为您提供优质服务</div>
+                <div class="ServiceInfo_title">彩怒莉公司的专业团队为您提供优质服务</div>
                 <div class="ServiceInfo_items">
                     <div class="ServiceInfo_item">
                         <div class="ServiceInfo_item_name">国际品牌化妆品供货服务</div>
                         <div class="ServiceInfo_item_image"><img src="<?php echo LDY_ITR.'skin/image/index/' ?>service_item_1.jpg" /></div>
-                        <div class="ServiceInfo_item_text">凯途锐公司的专业团队引进了众多国际知名品牌的化妆品，如GUCCI、HUGO BOSS、LACOSTE等品牌的香水及彩妆产品，我们长期提供百分百的正品行货，如果您打算经营香水、彩妆及护肤品等类目的产品，那么毫无疑问凯途锐是您最直得信任的合作伙伴。</div>
+                        <div class="ServiceInfo_item_text">彩怒莉公司的专业团队引进了众多国际知名品牌的化妆品，如GUCCI、HUGO BOSS、LACOSTE等品牌的香水及彩妆产品，我们长期提供百分百的正品行货，如果您打算经营香水、彩妆及护肤品等类目的产品，那么毫无疑问彩怒莉是您最直得信任的合作伙伴。</div>
                     </div>
                     <div class="ServiceInfo_item">
                         <div class="ServiceInfo_item_name">国际品牌化妆品代理服务</div>
                         <div class="ServiceInfo_item_image"><img src="<?php echo LDY_ITR.'skin/image/index/' ?>service_item_2.jpg" /></div>
-                        <div class="ServiceInfo_item_text">凯途锐公司拥有最专业的海外品牌化妆品引进团队，凭借着凯途锐公司十多年来的行业经验，以及强大的国内销售渠道资源和产品营销团队，有足够的实力使您把您的品牌及产品交由凯途锐公司为您全面打开其在中国的庞大市场。</div>
+                        <div class="ServiceInfo_item_text">彩怒莉公司拥有最专业的海外品牌化妆品引进团队，凭借着彩怒莉公司十多年来的行业经验，以及强大的国内销售渠道资源和产品营销团队，有足够的实力使您把您的品牌及产品交由彩怒莉公司为您全面打开其在中国的庞大市场。</div>
                     </div>
                     <div class="ServiceInfo_item">
                         <div class="ServiceInfo_item_name">化妆品营销方案策划服务</div>
                         <div class="ServiceInfo_item_image"><img src="<?php echo LDY_ITR.'skin/image/index/' ?>service_item_3.jpg" /></div>
-                        <div class="ServiceInfo_item_text">凯途锐公司以其专业的服务水准，十余年来积累了全各地数千家的销售端客户，它们之中包含了各种类型的销售终端，凯途锐公司的针对它们各自的特性，为它们策划过各种各样的营销方案，成功地完成了无数个销售计划。</div>
+                        <div class="ServiceInfo_item_text">彩怒莉公司以其专业的服务水准，十余年来积累了全各地数千家的销售端客户，它们之中包含了各种类型的销售终端，彩怒莉公司的针对它们各自的特性，为它们策划过各种各样的营销方案，成功地完成了无数个销售计划。</div>
                     </div>
                 </div>
             </div>

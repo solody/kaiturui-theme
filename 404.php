@@ -3,9 +3,9 @@
  * 404页
  */
  
- $PAGE_TITLE = '联系凯途锐';
+ $PAGE_TITLE = '联系彩怒莉';
 
-$PAGE_NAV = '&nbsp;&nbsp;联系凯途锐&nbsp;&nbsp;&gt;';
+$PAGE_NAV = '&nbsp;&nbsp;联系彩怒莉&nbsp;&nbsp;&gt;';
 $PAGE_JS = '<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.3"></script>';
 $PAGE_CSS = '
 <style>

@@ -18,7 +18,7 @@ body {background: no-repeat center url("image/bg.jpg") #151a20;  font-family:Ver
 
 .Lordly_Header_Logo { background-color:#666; height:100px; background:url("image/logo.png") no-repeat -1px 20px; cursor:pointer;}
 .Lordly_Header_Menu { padding-top:15px;}
-.Lordly_Header_Menu div { margin-left:190px;}
+.Lordly_Header_Menu div { margin-left:100px;}
 .Lordly_Header_Menu_Panel { height:55px; background-color:#000000; 
  opacity:0.4;filter: progid:DXImageTransform.Microsoft.Alpha(opacity=40); }
 .Lordly_Header_Menu_Content { margin-top:-55px; position:absolute; z-index:999;} 

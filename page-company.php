@@ -1,10 +1,10 @@
 <?php
-//了解凯途锐首页
+//了解彩怒莉首页
 
-$PAGE_TITLE = '了解凯途锐';
+$PAGE_TITLE = '了解彩怒莉';
 
-$PAGE_SEO = '<meta name="keywords" content="凯途锐公司,公司简介,了解公司,深圳凯途锐">
-<meta name="description" content="从信念与愿景、探索领域、业务体系、历程与展望四个方面对凯途锐公司进行了解。">
+$PAGE_SEO = '<meta name="keywords" content="彩怒莉公司,公司简介,了解公司,广州彩怒莉">
+<meta name="description" content="从信念与愿景、探索领域、业务体系、历程与展望四个方面对彩怒莉公司进行了解。">
 ';
 
 $PAGE_NAV = '&nbsp;'.$PAGE_TITLE.'&nbsp;&gt;';

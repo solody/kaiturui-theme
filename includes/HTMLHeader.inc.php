@@ -15,7 +15,7 @@ exit();
 
 if ( !empty($PAGE_TITLE) ) echo $PAGE_TITLE.' - ';
 
-?>深圳凯途锐贸易有限公司</title>
+?>广州彩怒莉化妆品有限公司</title>
 <?php
 if ( !empty($PAGE_SEO) ) echo $PAGE_SEO;
 ?>
